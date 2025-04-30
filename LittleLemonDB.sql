@@ -1,1 +1,0 @@
-alter table orders drop column DeliveryID;
