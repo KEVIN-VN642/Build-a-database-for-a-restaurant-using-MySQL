@@ -1,13 +1,10 @@
-Setting up repository for project 
+Project scope:
+- Review current messy data in an Excel file
+- Propose a solution to transfer data into MySQL database system
+- Design a proper data model to show entities and their relationship (ERD) in MySQL Workbench
+- Perform forward engineer to transform data model into data schema
+- Perform data engineering task from excel file then insert clean data into MyQL tables
+- Analyzing data using SQL queries
+- Implement stored procedure to support the booking system
+- Use Tableau to analyze and visualize sales & profit and create a dashboard
 
-To create a successful Booking implementation, you were asked to complete the following actions:
-
-Create a database that holds the data.
-
-Connect to the database using a Python client.
-
-Create a procedure using Python to react to changes in the data.
-
-Connect to the database using Tableau.
-
-Generate data reports using Tableau.
