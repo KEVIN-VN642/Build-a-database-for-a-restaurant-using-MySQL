@@ -1,4 +1,5 @@
-Project scope:
+Project scope: This project will build a database to manage orders and bookings for a restaurant Little Lemon.
+MySQL, MySQL Workbench, Python, Jupiter Notebook will be used to facilitate this process. Below are the details about scope of work:
 - Review current messy data in an Excel file
 - Propose a solution to transfer data into MySQL database system
 - Design a proper data model to show entities and their relationship (ERD) in MySQL Workbench
