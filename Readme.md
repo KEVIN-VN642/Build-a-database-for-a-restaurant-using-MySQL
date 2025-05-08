@@ -6,6 +6,6 @@ MySQL, MySQL Workbench, Python, Jupiter Notebook will be used to facilitate this
 - Perform forward engineer to transform data model into data schema
 - Perform data engineering task from excel file then insert clean data into MyQL tables
 - Analyzing data using MySQL queries
-- Implement stored procedure to support the booking system
+- Implement stored procedures to support the booking system
 - Use Tableau to analyze and visualize sales & profit and create a dashboard
 
