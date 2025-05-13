@@ -6,7 +6,7 @@ For proper design and implementation of the project, we need following tools: My
 
 ## Scope of Work
 
-Before constructing a database for Little Lemon, we need Below are the details about scope of work:
+Before building the database for Little Lemon, it's important to define the scope of work. The details are outlined below:
 - Design a proper data model to show entities and their relationship (ERD) in MySQL Workbench
 - Perform forward engineer to transform data model into data schema
 - Perform data engineering task from excel file then insert clean data into MyQL tables
@@ -27,4 +27,7 @@ Before constructing MySQL database, we need to have a proper Entity Relation Dia
 ## 2. Build database schema 
 Once we have ER Diagram, we can set up database schema for LittleLemon. We use Forward Engineering function of MySQL WorkBench to convert data model into data schema. The final result is showed below:
 <p align = "center"> <image src = "Data Model/LittleLemon_Schema.png" alt = "Data Model" width = "600" height = "450"> </p>
+
+## 3. Inserting data into tables
+In order to inserting into tables from Excel file, we need a Jupiter notebook to facilitate this process. It is first to read Excel file into a DataFrame then perform some engineering tasks such as removing duplicate rows, formating columns into suitable data type and removing unnecessary characters...We need to connect Jupiter notebook to the database as well and extract relevant data for each table. This process is found in the notebook "ETL Process.ipynb".
 
