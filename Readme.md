@@ -41,6 +41,6 @@ There are five stored procedures need to implement:
 
 Following are the detailed code for each procedure:
 <p align ="center"> <strong>CheckBooking Procedure </strong> </p>
-<p align = "center"> <image src = "Stored Procedures for Bookings/CheckBooking.png" alt = "CheckBooking" width = "500" height = "300"> </p>
+<p align = "center"> <image src = "Stored Procedures for Bookings/CheckBooking.png" alt = "CheckBooking" width = "500" height = "250"> </p>
 
 
