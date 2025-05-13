@@ -36,6 +36,10 @@ There are five stored procedures need to implement:
 - CheckBooking: Check if a table is available for a certain data.
 - AddBooking: Insert a new booking into booking table then confirm whether a booking is added.
 - AddValidBooking: this also insert a new booking into the table but we utilize **transaction** functionality to **rollback** if something go wrong unexpectedly.
-- 
+- UpdateBooking: this update existing booking.
+- CancelBooking: cancel a booking when customer request.
+
+Following are the detailed code for each procedure:
+<p align ="center">CheckBooking Procedure</p>p
 
 
