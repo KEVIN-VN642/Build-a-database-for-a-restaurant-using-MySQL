@@ -29,5 +29,5 @@ Once we have ER Diagram, we can set up database schema for LittleLemon. We use F
 <p align = "center"> <image src = "Data Model/LittleLemon_Schema.png" alt = "Data Model" width = "600" height = "450"> </p>
 
 ## 3. Inserting data into tables
-In order to inserting into tables from Excel file, we need a Jupiter notebook to facilitate this process. It is first to read Excel file into a DataFrame then perform some engineering tasks such as removing duplicate rows, formating columns into suitable data type and removing unnecessary characters...We need to connect Jupiter notebook to the database as well and extract relevant data for each table. This process is found in the notebook "ETL Process.ipynb".
+In order to inserting into tables from Excel file, we need a Jupiter notebook to facilitate this process. It is first to read Excel file into a DataFrame then perform some engineering tasks such as removing duplicate rows, formating columns into suitable data types and removing unnecessary characters...We need to connect Jupiter notebook to the database as well and extract relevant data for each table. This process is found in the notebook "ETL Process.ipynb".
 
