@@ -1,6 +1,12 @@
-## Project scope: 
-This project will build a database to manage orders and bookings for a restaurant Little Lemon.
-MySQL, MySQL Workbench, Python, Jupiter Notebook will be used to facilitate this process. Below are the details about scope of work:
+## Introduction
+Little Lemon Restaurant needs to transition from managing orders and booking information in Excel to a structured MySQL database. As their data continues to grow, it has become increasingly difficult to manage and extract insights using their current setup. To address these challenges, we will design and implement a well-structured database that optimizes both data storage and retrieval for future needs.
+
+## Software Requirements
+For proper design and implementation of the project, we need following tools: MySQL, MySQL Workbench, Python, Jupiter Notebook, and Tableau for visualization.
+
+## Scope of Work
+This project we will build a database to manage orders and bookings for a restaurant Little Lemon. The technology used in this project are MySQL, MySQL Workbench, Python, Jupiter Notebook will be used to facilitate this process. 
+Before constructing a database for Little Lemon, we need Below are the details about scope of work:
 - Review current messy data in an Excel file
 - Design a proper data model to show entities and their relationship (ERD) in MySQL Workbench
 - Perform forward engineer to transform data model into data schema
@@ -8,4 +14,8 @@ MySQL, MySQL Workbench, Python, Jupiter Notebook will be used to facilitate this
 - Analyzing data using MySQL queries
 - Implement stored procedures to support the booking system
 - Use Tableau to analyze and visualize sales & profit and create a dashboard
+
+## 1. Build Entity Relation Diagram and Data Model
+Before constructing MySQL database
+
 
