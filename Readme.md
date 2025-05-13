@@ -11,6 +11,7 @@ Before building the database for Little Lemon, it's important to define the scop
 - Perform forward engineer to transform data model into data schema
 - Perform data engineering task from excel file then insert clean data into MyQL tables
 - Implement stored procedures to support the booking system
+- Interact with stored procedures from Python
 - Analyzing data using MySQL queries (Join, Common Table Expression, Sub Queries, Window Functions)
 - Use Tableau to analyze and visualize sales & profit and create a dashboard
 
@@ -55,7 +56,10 @@ There are five stored procedures need to implement:
 <p align ="center"> <strong>CancelBooking Procedure </strong> </p>
 <p align = "center"> <image src = "Stored Procedures for Bookings/CancelBooking.png" alt = "CancelBooking" width = "500" height = "150"> </p>  
 
-## 5. Data Analytics with MySQL queries
+## 5. Interact with stored procedures from Python
+At this point, we already created five procedures for booking system. To work with stored procedure, first we need to set up communication between Python and MySQL then create connection and a cursor. To call a procedure from Python, we use the method **callproc** from Cursor class. The notebook **Interact with Booking Procedures.ipynb** indicate details about how to interact with procedures from Python.
+
+## 6. Data analytics with MySQL queries
 - Write a query to find the country with highest total sales:
 <p align = "center"> <image src = "Data Analysis with MySQL/Highest_Sales_Country.png" alt = "UpdateBooking" width = "500" height = "300"> </p> 
 
