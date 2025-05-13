@@ -10,8 +10,8 @@ Before building the database for Little Lemon, it's important to define the scop
 - Design a proper data model to show entities and their relationship (ERD) in MySQL Workbench
 - Perform forward engineer to transform data model into data schema
 - Perform data engineering task from excel file then insert clean data into MyQL tables
-- Analyzing data using MySQL queries
 - Implement stored procedures to support the booking system
+- Analyzing data using MySQL queries
 - Use Tableau to analyze and visualize sales & profit and create a dashboard
 
 ## 1. Build Entity Relation Diagram and Data Model
@@ -30,4 +30,12 @@ Once we have ER Diagram, we can set up database schema for LittleLemon. We use F
 
 ## 3. Inserting data into tables
 In order to inserting into tables from Excel file, we need a Jupiter notebook to facilitate this process. It is first to read Excel file into a DataFrame then perform some engineering tasks such as removing duplicate rows, formating columns into suitable data types and removing unnecessary characters...We need to connect Jupiter notebook to the database as well and extract relevant data for each table. This process is found in the notebook "ETL Process.ipynb".
+
+## 4. Stored Procedures for booking system
+There are five stored procedures need to implement:
+- CheckBooking: Check if a table is available for a certain data.
+- AddBooking: Insert a new booking into booking table then confirm whether a booking is added.
+- AddValidBooking: this also insert a new booking into the table but we utilize **transaction** functionality to **rollback** if something go wrong unexpectedly.
+- 
+
 
