@@ -40,6 +40,6 @@ There are five stored procedures need to implement:
 - CancelBooking: cancel a booking when customer request.
 
 Following are the detailed code for each procedure:
-<p align ="center">CheckBooking Procedure</p>p
+<p align ="center"> <strong>CheckBooking Procedure </strong> </p>
 
 
