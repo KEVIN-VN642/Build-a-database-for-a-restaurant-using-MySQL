@@ -53,5 +53,5 @@ There are five stored procedures need to implement:
 <p align = "center"> <image src = "Stored Procedures for Bookings/UpdateBooking.png" alt = "UpdateBooking" width = "500" height = "250"> </p>  
 
 <p align ="center"> <strong>CancelBooking Procedure </strong> </p>
-<p align = "center"> <image src = "Stored Procedures for Bookings/CancelBooking.png" alt = "CancelBooking" width = "500" height = "250"> </p>  
+<p align = "center"> <image src = "Stored Procedures for Bookings/CancelBooking.png" alt = "CancelBooking" width = "500" height = "200"> </p>  
 
