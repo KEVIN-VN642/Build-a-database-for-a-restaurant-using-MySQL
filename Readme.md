@@ -57,7 +57,7 @@ There are five stored procedures need to implement:
 
 ## 5. Data Analytics with MySQL queries
 - Write a query to find the country with highest total sales:
-<p align = "center"> <image src = "Data Analysis with MySQL/Hightest_Sales_Country.png" alt = "UpdateBooking" width = "500" height = "300"> </p> 
+<p align = "center"> <image src = "Data Analysis with MySQL/Highest_Sales_Country.png" alt = "UpdateBooking" width = "500" height = "300"> </p> 
                            
   
   
