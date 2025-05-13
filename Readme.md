@@ -23,6 +23,6 @@ Before constructing MySQL database, we need to have a proper Entity Relation Dia
 - Bookings: BookingID (Primary Key), CustomerID (Foreign Key), BookingDate, TableNo
   
 
-<p align = "center"> <image src = "Data Model/LittleLemon_PNG.png" alt = "Data Model" width = "500" height = "300"> </p>p
+<p align = "center"> <image src = "Data Model/LittleLemon_PNG.png" alt = "Data Model" width = "700" height = "500"> </p>p
 
 
