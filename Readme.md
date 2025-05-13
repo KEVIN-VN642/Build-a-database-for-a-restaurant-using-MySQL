@@ -71,16 +71,16 @@ This part we demonstrate how to work with Tableau to visualize data, we will get
 
 <p align ="center"> <strong>Customers Sales </strong> </p>
 <p align = "center"> <image src = "Data Visualization with Tableau/Customers Sales.png" alt = "Customers Sales" width = "500" height = "300"> </p>  
-
+<br>
 <p align ="center"> <strong>Profit Chart </strong> </p>
 <p align = "center"> <image src = "Data Visualization with Tableau/Profit Chart.png" alt = "Profit Chart" width = "500" height = "300"> </p>  
-
+<br>
 <p align ="center"> <strong>Cuisine Sales and Profit </strong> </p>
 <p align = "center"> <image src = "Data Visualization with Tableau/Cuisine Sales and Profit.png" alt = "Cuisine Sales and Profit" width = "500" height = "300"> </p>  
-
+<br>
 <p align ="center"> <strong>Sales Bubble Chart </strong> </p>
 <p align = "center"> <image src = "Data Visualization with Tableau/Sales Bubble Chart.png" alt = "Sales Bubble Chart" width = "500" height = "400"> </p>  
-
+<br>
 <p align ="center"> <strong>Dashboard </strong> </p>
 <p align = "center"> <image src = "Data Visualization with Tableau/Dashboard.png" alt = "Dashboard" width = "500" height = "500"> </p>  
 
