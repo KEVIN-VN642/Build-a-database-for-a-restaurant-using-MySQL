@@ -47,6 +47,6 @@ There are five stored procedures need to implement:
 <p align = "center"> <image src = "Stored Procedures for Bookings/AddBooking.png" alt = "AddBooking" width = "500" height = "200"> </p>
                      
 <p align ="center"> <strong>AddValidBooking Procedure </strong> </p>
-<p align = "center"> <image src = "Stored Procedures for Bookings/AddValidBooking.png" alt = "AddBooking" width = "500" height = "200"> </p>              
+<p align = "center"> <image src = "Stored Procedures for Bookings/AddValidBooking.png" alt = "AddBooking" width = "500" height = "300"> </p>              
 
 
