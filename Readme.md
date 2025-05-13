@@ -60,7 +60,7 @@ There are five stored procedures need to implement:
 <p align = "center"> <image src = "Data Analysis with MySQL/Highest_Sales_Country.png" alt = "UpdateBooking" width = "600" height = "300"> </p> 
 
 - Write a query to find the city with highest total sales in each country:
-<p align = "center"> <image src = "Data Analysis with MySQL/Highest_Sales_City_Country.png" alt = "UpdateBooking" width = "500" height = "400"> </p> 
+<p align = "center"> <image src = "Data Analysis with MySQL/Highest_Sales_City_Country.png" alt = "UpdateBooking" width = "500" height = "350"> </p> 
                            
   
   
