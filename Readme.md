@@ -31,7 +31,7 @@ Once we have ER Diagram, we can set up database schema for LittleLemon. We use F
 ## 3. Inserting data into tables
 In order to inserting into tables from Excel file, we need a Jupiter notebook to facilitate this process. It is first to read Excel file into a DataFrame then perform some engineering tasks such as removing duplicate rows, formating columns into suitable data types and removing unnecessary characters...We need to connect Jupiter notebook to the database as well and extract relevant data for each table. This process is found in the notebook "ETL Process.ipynb".
 
-## 4. Stored Procedures for booking system
+## 4. Stored procedures for booking system
 There are five stored procedures need to implement:
 - CheckBooking: Check if a table is available for a certain data.
 - AddBooking: Insert a new booking into booking table then confirm whether a booking is added.
