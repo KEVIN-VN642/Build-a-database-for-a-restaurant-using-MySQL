@@ -57,13 +57,13 @@ There are five stored procedures need to implement:
 
 ## 5. Data Analytics with MySQL queries
 - Write a query to find the country with highest total sales:
-                            select Country, sum(Sales) as TotalSales
-                            from customers
-                            inner join orders
-                            on customers.CustomerID = orders.CustomerID
-                            group by country
-                            order by TotalSales desc 
-                            limit 1
+                            select Country, sum(Sales) as TotalSales <br>
+                            from customers <br>
+                            inner join orders <br>
+                            on customers.CustomerID = orders.CustomerID <br>
+                            group by country <br>
+                            order by TotalSales desc  <br>
+                            limit 1 <br>
   
   
   
