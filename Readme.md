@@ -22,7 +22,6 @@ Before constructing MySQL database, we need to have a proper Entity Relation Dia
 - Menu_Items: Menu_Item_ID (Primary Key), CourseName, StarterName, DessertName, Drink, Sides.
 - Bookings: BookingID (Primary Key), CustomerID (Foreign Key), BookingDate, TableNo
   
-
-<p align = "center"> <image src = "Data Model/LittleLemon_PNG.png" alt = "Data Model" width = "700" height = "500"> </p>p
+<p align = "center"> <image src = "Data Model/LittleLemon_PNG.png" alt = "Data Model" width = "700" height = "500"> </p>
 
 
