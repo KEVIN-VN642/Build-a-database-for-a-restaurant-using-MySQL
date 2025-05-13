@@ -66,6 +66,11 @@ At this point, we already created five procedures for booking system. To work wi
 - Write a query to find the city with highest total sales in each country:
 <p align = "center"> <image src = "Data Analysis with MySQL/Highest_Sales_City_Country.png" alt = "UpdateBooking" width = "600" height = "350"> </p> 
                            
-  
+## 7. Create Views, Dashboard with Tableau
+This part we demonstrate how to work with Tableau to visualize data, we will get data directly from Excel file then do some data engineering in Tableau after that create Views and Dashboard to visualize sales and profit information.
+
+<p align ="center"> <strong>Customers Sales </strong> </p>
+<p align = "center"> <image src = "Data Visualization with Tableau/Customers Sales.png" alt = "Customers Sales" width = "500" height = "300"> </p>  
+
   
   
