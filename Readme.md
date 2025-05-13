@@ -41,19 +41,19 @@ There are five stored procedures need to implement:
 - CancelBooking: cancel a booking when customer request.
 
 <strong>Following are the detailed code for each procedure</strong>:
-<p align ="center"> <strong>CheckBooking Procedure </strong> </p>
+<p> <strong>CheckBooking Procedure </strong> </p>
 <p align = "center"> <image src = "Stored Procedures for Bookings/CheckBooking.png" alt = "CheckBooking" width = "500" height = "250"> </p>
                      
-<p align ="center"> <strong>AddBooking Procedure </strong> </p>
+<p> <strong>AddBooking Procedure </strong> </p>
 <p align = "center"> <image src = "Stored Procedures for Bookings/AddBooking.png" alt = "AddBooking" width = "500" height = "150"> </p>
                      
-<p align ="center"> <strong>AddValidBooking Procedure </strong> </p>
-<p align = "center"> <image src = "Stored Procedures for Bookings/AddValidBooking.png" alt = "AddValidBooking" width = "550" height = "350"> </p>    
+<p> <strong>AddValidBooking Procedure </strong> </p>
+<p> <image src = "Stored Procedures for Bookings/AddValidBooking.png" alt = "AddValidBooking" width = "550" height = "350"> </p>    
 
-<p align ="center"> <strong>UpdateBooking Procedure </strong> </p>
-<p align = "center"> <image src = "Stored Procedures for Bookings/UpdateBooking.png" alt = "UpdateBooking" width = "500" height = "200"> </p>  
+<p> <strong>UpdateBooking Procedure </strong> </p>
+<p> <image src = "Stored Procedures for Bookings/UpdateBooking.png" alt = "UpdateBooking" width = "500" height = "200"> </p>  
 
-<p align ="center"> <strong>CancelBooking Procedure </strong> </p>
+<p> <strong>CancelBooking Procedure </strong> </p>
 <p align = "center"> <image src = "Stored Procedures for Bookings/CancelBooking.png" alt = "CancelBooking" width = "500" height = "150"> </p>  
 
 ## 5. Interact with stored procedures from Python
@@ -69,19 +69,19 @@ At this point, we already created five procedures for booking system. To work wi
 ## 7. Create Views, Dashboard with Tableau
 This part we demonstrate how to work with Tableau to visualize data, we will get data directly from Excel file then do some data engineering in Tableau after that create Views and Dashboard to visualize sales and profit information.
 
-<p align ="center"> <strong>Customers Sales </strong> </p>
+<p align> <strong>Customers Sales </strong> </p>
 <p align = "center"> <image src = "Data Visualization with Tableau/Customers Sales.png" alt = "Customers Sales" width = "500" height = "300"> </p>  
 <br>
-<p align ="center"> <strong>Profit Chart </strong> </p>
+<p> <strong>Profit Chart </strong> </p>
 <p align = "center"> <image src = "Data Visualization with Tableau/Profit Chart.png" alt = "Profit Chart" width = "500" height = "300"> </p>  
 <br>
-<p align ="center"> <strong>Cuisine Sales and Profit </strong> </p>
+<p> <strong>Cuisine Sales and Profit </strong> </p>
 <p align = "center"> <image src = "Data Visualization with Tableau/Cuisine Sales and Profit.png" alt = "Cuisine Sales and Profit" width = "500" height = "300"> </p>  
 <br>
-<p align ="center"> <strong>Sales Bubble Chart </strong> </p>
+<p> <strong>Sales Bubble Chart </strong> </p>
 <p align = "center"> <image src = "Data Visualization with Tableau/Sales Bubble Chart.png" alt = "Sales Bubble Chart" width = "500" height = "400"> </p>  
 <br>
-<p align ="center"> <strong>Dashboard </strong> </p>
+<p> <strong>Dashboard </strong> </p>
 <p align = "center"> <image src = "Data Visualization with Tableau/Dashboard.png" alt = "Dashboard" width = "500" height = "500"> </p>  
 
   
