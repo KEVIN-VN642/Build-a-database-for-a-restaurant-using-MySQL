@@ -11,7 +11,7 @@ Before building the database for Little Lemon, it's important to define the scop
 - Perform forward engineer to transform data model into data schema
 - Perform data engineering task from excel file then insert clean data into MyQL tables
 - Implement stored procedures to support the booking system
-- Analyzing data using MySQL queries
+- Analyzing data using MySQL queries (Join, Common Table Expression, Sub Queries, Window Functions)
 - Use Tableau to analyze and visualize sales & profit and create a dashboard
 
 ## 1. Build Entity Relation Diagram and Data Model
@@ -57,7 +57,7 @@ There are five stored procedures need to implement:
 
 ## 5. Data Analytics with MySQL queries
 - Write a query to find the country with highest total sales:
-<p align = "center"> <image src = "Data Analysis with MySQL/Highest_Sales_Country.png" alt = "UpdateBooking" width = "500" height = "300"> </p> 
+<p align = "center"> <image src = "Data Analysis with MySQL/Highest_Sales_Country.png" alt = "UpdateBooking" width = "600" height = "300"> </p> 
 
 - Write a query to find the city with highest total sales in each country:
 <p align = "center"> <image src = "Data Analysis with MySQL/Highest_Sales_City_Country.png" alt = "UpdateBooking" width = "500" height = "400"> </p> 
