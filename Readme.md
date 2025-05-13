@@ -41,19 +41,19 @@ There are five stored procedures need to implement:
 - CancelBooking: cancel a booking when customer request.
 
 <strong>Following are the detailed code for each procedure</strong>:
-<p> <strong>CheckBooking Procedure </strong> </p>
+<p> <strong>CheckBooking: </strong> </p>
 <p align = "center"> <image src = "Stored Procedures for Bookings/CheckBooking.png" alt = "CheckBooking" width = "500" height = "250"> </p>
                      
-<p> <strong>AddBooking Procedure </strong> </p>
+<p> <strong>AddBooking: </strong> </p>
 <p align = "center"> <image src = "Stored Procedures for Bookings/AddBooking.png" alt = "AddBooking" width = "500" height = "150"> </p>
                      
-<p> <strong>AddValidBooking Procedure </strong> </p>
+<p> <strong>AddValidBooking: </strong> </p>
 <p align = "center"> <image src = "Stored Procedures for Bookings/AddValidBooking.png" alt = "AddValidBooking" width = "550" height = "350"> </p>    
 
-<p> <strong>UpdateBooking Procedure </strong> </p>
+<p> <strong>UpdateBooking: </strong> </p>
 <p align = "center"> <image src = "Stored Procedures for Bookings/UpdateBooking.png" alt = "UpdateBooking" width = "500" height = "200"> </p>  
 
-<p> <strong>CancelBooking Procedure </strong> </p>
+<p> <strong>CancelBooking: </strong> </p>
 <p align = "center"> <image src = "Stored Procedures for Bookings/CancelBooking.png" alt = "CancelBooking" width = "500" height = "150"> </p>  
 
 ## 5. Interact with stored procedures from Python
