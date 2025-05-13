@@ -15,6 +15,13 @@ Before constructing a database for Little Lemon, we need Below are the details a
 - Use Tableau to analyze and visualize sales & profit and create a dashboard
 
 ## 1. Build Entity Relation Diagram and Data Model
-Before constructing MySQL database
+Before constructing MySQL database, we need to have a proper Entity Relation Diagram which present entities of the database and their relationship. After examining the existing data, we come out about five entities (tables) which are appropriate for Little Lemon, details about each entity and its features as below:
+- Customers: CustomerID (Primary Key), Name, City, Country.
+- Orders: OrderID (Primary Key), OrderDate, Cost, Sales, Discount, Quantity, CustomerID (Foreign Key), MenuItemID (Foreign Key).
+- Deliveries: Deliveries_id (Primary Key), DeliveryDate, DeliveryDtatus, OrderID (Foreign Key).
+- Menu_Items: Menu_Item_ID (Primary Key), CourseName, StarterName, DessertName, Drink, Sides.
+- Bookings: BookingID (Primary Key), CustomerID (Foreign Key), BookingDate, TableNo
+  
+
 
 
