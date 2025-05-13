@@ -1,5 +1,5 @@
 ## Introduction
-Little Lemon Restaurant needs to transition from managing orders and booking information in Excel to a structured MySQL database. As their data continues to grow, it has become increasingly difficult to manage and extract insights using their current setup. To address these challenges, we will design and implement a well-structured database that optimizes both data storage and retrieval for future needs. We also build for them some stored procedures to facilitate their booking system.
+Little Lemon Restaurant needs to transition from managing orders and booking information in Excel to a structured MySQL database. As their data continues to grow, it has become increasingly difficult to manage and extract insights using their current setup. To address these challenges, we will design and implement a well-structured database that optimizes both data storage and retrieval for future needs. We also conduct data analysis with MySQL and build for them some stored procedures to facilitate their booking system.
 
 ## Software Requirements
 For proper design and implementation of the project, we need following tools: MySQL, MySQL Workbench, Python, Jupiter Notebook, and Tableau for visualization.
