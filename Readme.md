@@ -24,4 +24,7 @@ Before constructing MySQL database, we need to have a proper Entity Relation Dia
   
 <p align = "center"> <image src = "Data Model/LittleLemon_PNG.png" alt = "Data Model" width = "700" height = "500"> </p>
 
+## 2. Build database schema 
+Once we have ER Diagram, we can set up database schema for LittleLemon. We use Forward Engineering function of MySQL WorkBench to convert data model into data schema. The final result is showed below:
+<p align = "center"> <image src = "Data Model/LittleLemon_Schema.png" alt = "Data Model" width = "700" height = "500"> </p>
 
