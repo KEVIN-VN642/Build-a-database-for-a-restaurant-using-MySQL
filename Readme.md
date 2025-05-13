@@ -55,3 +55,15 @@ There are five stored procedures need to implement:
 <p align ="center"> <strong>CancelBooking Procedure </strong> </p>
 <p align = "center"> <image src = "Stored Procedures for Bookings/CancelBooking.png" alt = "CancelBooking" width = "500" height = "150"> </p>  
 
+## 5. Data Analytics with MySQL queries
+- Write a query to find the country with highest total sales:
+                            select Country, sum(Sales) as TotalSales
+                            from customers
+                            inner join orders
+                            on customers.CustomerID = orders.CustomerID
+                            group by country
+                            order by TotalSales desc 
+                            limit 1
+  
+  
+  
